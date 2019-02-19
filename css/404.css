@@ -1,0 +1,142 @@
+#popup {width:260px;height:300px;}
+#popup .logo {font-size:36px;margin:40px 0 20px 0;}
+#popup .status {margin:20px 0;}
+#popup .switch {margin:40px 0;}
+
+#option .logo {font-size:36px;margin:0 0 20px 10px;}
+#option .row .list-group .list-group-item {width:24%;margin:1px;float:left;}
+#option .adddomain {width:60%;margin:5px auto;}
+
+.clear {clear:both;}
+.gray {-webkit-filter: grayscale(1);filter:gray;filter: grayscale(1);}
+
+#option {
+	padding-top:50px;
+	background: #f7f7f7;
+	font-family: "Hiragino Sans GB", "Microsoft YaHei", Helvetica, Arial, sans-serif;
+	color: #666;
+	text-decoration: none;
+}
+
+.header {
+	width: 100%;
+	height: 92px;
+	background: #fff;
+	position: fixed;
+	left: 0;
+	top: 0;
+	box-shadow: 0 2px 4px rgba(0,0,0,.15);
+	z-index: 999;
+	_position: absolute;
+	_bottom: auto;
+_top:expression(eval(document.documentElement.scrollTop)); padding-top:20px;
+}
+.container{ width:800px;}
+.left{ float:left; width:250px;height:500px;}
+.right{ float:right; width:700px;background-color:#fff;box-shadow: 0 2px 4px rgba(0,0,0,.15); padding:20px;}
+.leftbox{float:left;width:250px;box-shadow: 0 2px 4px rgba(0,0,0,.15);background-color:#fff; padding-top:10px; padding-bottom:15px;}
+.leftbox2{float:left;width:250px;box-shadow: 0 2px 4px rgba(0,0,0,.15);background-color:#fff; padding:10px; margin-top:10px;}
+.head{}
+.left_pre{ float:left;width:220px; padding-left:30px;text-align:left;}
+.img-circle:hover {
+width: 80px;
+height: 80px;
+border: 2px solid #ccc;
+border-radius: 70%;
+}
+.img-circle {
+width: 80px;
+height: 80px;
+border: 2px solid #ddd;
+border-radius: 70%;
+}
+
+.red a {
+	color: #e74c3c;
+	text-decoration: none;
+}
+.red a:hover {
+	color: #ec7063;
+	text-decoration: none;
+}
+.blue{color: #3498db;}
+.blue60{color: #3498db;font-size:60px;}
+
+.green60{color:#5cb85c;font-size:60px;}
+.green{color:#5cb85c;}
+.grey{color:#ccc;}
+.16font{
+	font-size: 16px;
+}
+.60font{
+	font-size:60px;
+}
+.plr20{ padding-left:20px; padding-right:20px;}
+.ml20{ margin-left:20px;}
+.mt20{ margin-top:20px;}
+.mt40{ margin-top:40px;}
+.mt100{ margin-top:100px;}
+.mt10{ margin-top:10px;}
+.btn-primary {
+color: #fff;
+background-color: #3498db;
+border-color: #357ebd;
+}
+.btn-lg, .btn-group-lg>.btn {
+font-size: 14px;
+}
+
+.card01{ float:left; width:200px; padding:10px;
+background: white;
+border: 1px solid #ddd;
+border-radius: 5px;
+margin-top: 10px; margin-left:10px;
+}
+.card02{
+ float:left; width:200px;padding:10px;
+background: white;
+border: 1px solid #5cb85c;
+border-radius: 5px;
+margin-top: 10px;margin-left:10px;
+}
+.card03{
+ float:left; width:200px;padding:10px;
+background: white;
+border: 1px solid #ddd;
+border-radius: 5px;
+margin-top: 10px;margin-left:10px;
+}
+.modal-content{ width:300px;}
+.mailname{float:left;display: block; width:130px; height:24px; overflow:  hidden; white-space: nowrap; -o-text-overflow: ellipsis; text-overflow:  ellipsis;}
+.mailnameright{ float:left;}
+
+
+.paybox{ float:left; width:800px;background-color:#fff;box-shadow: 0 2px 4px rgba(0,0,0,.15); padding:20px;}
+.payboxcard01{ float:left; width:200px; padding:10px;
+background: white;
+border: 1px solid #ddd;
+border-radius: 5px;
+margin-top: 10px; margin-left:80px;
+}
+.payboxcard02{
+ float:left; width:200px;padding:10px;
+background: white;
+border: 1px solid #5cb85c;
+border-radius: 5px;
+margin-top: 10px;margin-left:10px;
+}
+.payboxcard03{
+ float:left; width:200px;padding:10px;
+background: white;
+border: 1px solid #ddd;
+border-radius: 5px;
+margin-top: 10px;margin-left:10px;
+}
+.payboxred30{
+	font-size: 30px;
+	color: #F00;
+}
+.payboxgrey20{
+	font-size:24px;
+	color: #333232;
+}
