@@ -114,8 +114,16 @@ main {
   font-weight: 700
 }
 
+.apple {
+  width:2rem;
+}
+
+.google {
+  width:2rem;
+}
+
 .store-icon img {
-  height: 1rem;
+  height: 0.7rem;
 }
 
 footer {
